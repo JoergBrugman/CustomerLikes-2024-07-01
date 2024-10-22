@@ -1,0 +1,40 @@
+{
+  "id": "95c27126-3e93-4593-88e2-87818e3a4513",
+  "name": "Customer Likes",
+  "publisher": "get&use Academy GmbH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "84e4703c-7dd5-4ce3-a239-439907f0265d",
+      "name": "Bookstore Base",
+      "publisher": "get&use Academy GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
