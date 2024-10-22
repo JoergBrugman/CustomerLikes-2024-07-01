@@ -12,5 +12,7 @@
         "${PerTenantExtensionCop}"
     ],
     "editor.snippetSuggestions": "bottom",
-    "workbench.colorTheme": "Default High Contrast"
+    "workbench.colorTheme": "Default High Contrast",
+    "xliffSync.parseFromDeveloperNote": true,
+    "xliffSync.parseFromDeveloperNoteOverwrite": true
 }

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Customer Likes">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 4080979989 - NamedType 2141700304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are not allowed to delete %1 %2 because it ist liked by one or more customer</source>
+          <target state="translated">Sie dürfen das %1 %2 nicht löschen, da es von einem oder mehreren Debitoren geliked wurde</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Sie dürfen das %1 %2 nicht löschen, da es von einem oder mehreren Debitoren geliked wurde</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSCL Subscriber Store - NamedType OnDeleteBookErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3823588350 - Control 623551584 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 826345865">
+          <source>Specifies the value of the No. of Customer Likes field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSCL Book Factbox - Control BSCL No. of Customer Likes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 197612026 - Action 3963639993 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Executes the Book Card action.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSCL Customer Card - Action BSCL FavoriteBookCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 197612026 - Action 3963639993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Book Card</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BSCL Customer Card - Action BSCL FavoriteBookCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2071015745 - Field 623551584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3249233238">
+          <source>No. of Customer Likes</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BSCL Book - Field BSCL No. of Customer Likes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3551807353 - EnumValue 3929524888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3135438230">
+          <source>E-Book</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension BSCL Book Type - EnumValue eBook - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
